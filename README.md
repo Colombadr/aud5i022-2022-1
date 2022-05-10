@@ -73,12 +73,12 @@ durante este curso usaremos los siguientes software:
 
 ## evaluaciones
 
-las notas van entre 1.0 y 7.0, con resolución de un decimal.
+las notas van entre 1.0 y 7.0, con resolución de un decimal. 
 
 la nota final del curso es el promedio simple de 4 notas:
 
 * asistencia: inasistencias justificadas valen media asistencia, pueden faltar 3 veces
-* participación: en clase o web vía u-cursos y GitHub
+* participación: en clase o web vía u-cursos y GitHub 
 * tareas: una tarea todas las semanas, las 3 peores no cuentan
 * proyecto final: evaluación incluye código, documentación y presentación
 
